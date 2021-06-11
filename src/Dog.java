@@ -30,7 +30,6 @@ public class Dog {
         this.nome = novoDog;
     }
 
-
     public String getNome() {
         return nome;
     }
@@ -46,6 +45,7 @@ public class Dog {
     public void setProximo(Dog proximo) {
         this.proximo = proximo;
     }
+
     public void mostrar(){
         System.out.println("\nnome: "+nome);
         System.out.println("idade: "+idade);

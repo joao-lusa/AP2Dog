@@ -1,4 +1,4 @@
-import jdk.jshell.spi.ExecutionControl;
+//Dupla: João Lucas Pereira Rafael e João Vitor Dalagnol da Silva
 
 import java.util.Scanner;
 
@@ -63,8 +63,6 @@ public class Main {
         Dog c= new Dog(n);
 
         System.out.println(lista.indexOf(c));
-
-        //Dupla: João Lucas Pereira Rafael e João Vitor Dalagnol da Silva
 
     }
 }
